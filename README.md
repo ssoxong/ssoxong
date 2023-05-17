@@ -8,8 +8,4 @@ study...
   
 <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"> <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
 
-![ssoxong's github stats](https://github-readme-stats.vercel.app/api?username=ssoxong&show_icons=true&theme=graywhite)
-<!--
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssoxong&layout=cpmpact&theme=graywhite)
--->
 </div>
