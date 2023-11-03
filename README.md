@@ -41,8 +41,6 @@
 - **E-mail:** ssoxong@naver.com
 - **LinkedIn:** https://www.linkedin.com/in/so-hyeon-lee-b9a287295/
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ssoxong&show_icons=true)
-
-## 🔗 링크
+## 🔗 Link
 - [Portfolio](https://ssoxong.notion.site/Sohyeon-Lee-dba19623828849ae928674d0cca7816c?pvs=4)
 - [Blog](https://ssoxong.github.io/)
