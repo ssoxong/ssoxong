@@ -5,11 +5,7 @@
 - Back-end
 
 ## 💼 Activity
-- Soongsil University, School of Software (2021 ~)
-  - Interdisciplinary Major in Security 
-  - SSCC 40th (**S**oong**s**il **C**omputer **C**lub)
-  - Tutor of Security Convergence
-  
+- Soongsil University, School of Software (2021 ~)  
 - Best of Best 12th, Security Product Development
   - Performance: [BoB12-sso](https://github.com/BoB12-sso)
   - Project: [GAE4COON](https://github.com/GAE4COON)
