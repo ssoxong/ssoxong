@@ -16,6 +16,4 @@
 
 ## 🔗 Link
 - [Portfolio](https://ssoxong.notion.site/Sohyeon-Lee-dba19623828849ae928674d0cca7816c?pvs=4)
-- [Blog](https://ssoxong.github.io/)
-
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ssoxong)](https://solved.ac/ssoxong)
+- [Blog](https://velog.io/@ssoxong)
