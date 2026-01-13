@@ -10,7 +10,7 @@
 
 ## 📫 Contact
 - **E-mail:** ssoxong@naver.com
-- [LinkedIn](https://www.linkedin.com/in/so-hyeon-lee-b9a287295/](https://www.linkedin.com/in/so-hyeon-lee-b9a287295)
+- [LinkedIn](https://www.linkedin.com/in/so-hyeon-lee-b9a287295/)
 
 ## 🔗 Link
 - [Blog](https://velog.io/@ssoxong)
